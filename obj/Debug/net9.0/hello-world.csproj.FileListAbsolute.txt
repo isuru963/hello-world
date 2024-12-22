@@ -1,0 +1,5 @@
+E:\ISA_DEVLABS\C#\Project 1\hello-world\obj\Debug\net9.0\hello-world.GeneratedMSBuildEditorConfig.editorconfig
+E:\ISA_DEVLABS\C#\Project 1\hello-world\obj\Debug\net9.0\hello-world.AssemblyInfoInputs.cache
+E:\ISA_DEVLABS\C#\Project 1\hello-world\obj\Debug\net9.0\hello-world.AssemblyInfo.cs
+E:\ISA_DEVLABS\C#\Project 1\hello-world\obj\Debug\net9.0\hello-world.csproj.CoreCompileInputs.cache
+E:\ISA_DEVLABS\C#\Project 1\hello-world\obj\Debug\net9.0\hello-world.sourcelink.json
