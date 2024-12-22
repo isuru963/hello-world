@@ -1,0 +1,15 @@
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Project 02\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Project 02\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Project 02\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Project 02\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Project 02\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Project 02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Project 02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Project 02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Project 02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Project 02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.sourcelink.json
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Project 02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Project 02\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Project 02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Project 02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Project 02\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll
