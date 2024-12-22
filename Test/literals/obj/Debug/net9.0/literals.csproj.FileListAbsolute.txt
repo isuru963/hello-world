@@ -1,0 +1,15 @@
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Test\literals\bin\Debug\net9.0\literals.exe
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Test\literals\bin\Debug\net9.0\literals.deps.json
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Test\literals\bin\Debug\net9.0\literals.runtimeconfig.json
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Test\literals\bin\Debug\net9.0\literals.dll
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Test\literals\bin\Debug\net9.0\literals.pdb
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Test\literals\obj\Debug\net9.0\literals.GeneratedMSBuildEditorConfig.editorconfig
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Test\literals\obj\Debug\net9.0\literals.AssemblyInfoInputs.cache
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Test\literals\obj\Debug\net9.0\literals.AssemblyInfo.cs
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Test\literals\obj\Debug\net9.0\literals.csproj.CoreCompileInputs.cache
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Test\literals\obj\Debug\net9.0\literals.sourcelink.json
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Test\literals\obj\Debug\net9.0\literals.dll
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Test\literals\obj\Debug\net9.0\refint\literals.dll
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Test\literals\obj\Debug\net9.0\literals.pdb
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Test\literals\obj\Debug\net9.0\literals.genruntimeconfig.cache
+E:\ISA_DEVLABS\C#\Project 1\hello-world\Test\literals\obj\Debug\net9.0\ref\literals.dll
