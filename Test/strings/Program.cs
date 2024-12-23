@@ -11,9 +11,9 @@ Console.WriteLine("Isuru said \"Thilini\"");
 Console.WriteLine(@"C:\windows\games\gta6");
 */
 
-string firstname = "Isuru";
-string greeting = "Welcome";
+string firstname = " Isuru ";
+string greeting = " Welcome ";
 
-string message = firstname + greeting + "Hello, World!";
+string message = firstname + greeting + " Hello, World! ";
 
 Console.WriteLine(message);
